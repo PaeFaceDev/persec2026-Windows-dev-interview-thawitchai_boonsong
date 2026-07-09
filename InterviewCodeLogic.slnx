@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InterviewCodeLogic.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+</Solution>
